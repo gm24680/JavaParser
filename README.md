@@ -1,2 +1,2 @@
 # JavaParser
-I made a Parser in Java for a school project
+Java parser project for tokenizing and parsing simple grammar input.
